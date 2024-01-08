@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Vadim!
+
+- 📫 How to reach me: Telegram - @imsolty
+- ✨ I’m currently using Python and Java as my primary languages.
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsolty&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imsolty&hide_border=true" />
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 <!--
 **ImSOLty/ImSOLty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
