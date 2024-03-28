@@ -14,6 +14,8 @@
 
 <div align="center">
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/imsolty?theme=dark&font=DM%20Mono&ext=contest)
+
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
