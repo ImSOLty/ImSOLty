@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vadim! Show some ❤️ by starring some of the repositories!
+### Hi there 👋, I'm Vadim!
 
 - 📫 How to reach me: Telegram - @imsolty
 - ✨ I’m currently using Python and Java as my primary languages.
@@ -15,11 +15,12 @@
   <br />
   <div align="center">
 
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/imsolty?theme=dark&font=DM%20Mono&border=0&radius=20&ext=contest)](https://leetcode.com/imsolty/)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/imsolty?theme=dark&font=DM%20Mono&border=0&radius=20)](https://leetcode.com/imsolty/)
   
   </div>
 </details>
 
+### Show some ❤️ by starring some of the repositories!
 <!--
 **ImSOLty/ImSOLty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
