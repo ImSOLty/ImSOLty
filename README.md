@@ -57,13 +57,6 @@ Hello there 👋, I'm Vadim! I completed my bachelor's degree in Applied Mathema
         <strong>Miscellaneous:</strong> Celery, Pydantic, Jupyter, pygame, Faker, ast<br>
     </td></tr>
     <tr><td style="width: 130px;">
-        <img src="https://img.shields.io/badge/javascript-ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-        </td><td>
-        <strong>Web Frameworks:</strong> Node.js, Express, React, Angular, Svelte<br>
-        <strong>Libraries:</strong> WebGL, jQuery<br>
-        <strong>Build Tools:</strong> Vite<br>
-    </td></tr>
-    <tr><td style="width: 130px;">
         <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
         </td><td>
         <strong>Core Skills:</strong> Scripting, Unity, 2D/3D, Animator, Physics, UI/UX, Shaders/ShaderGraph, URP/HDRP<br>
@@ -71,6 +64,13 @@ Hello there 👋, I'm Vadim! I completed my bachelor's degree in Applied Mathema
         <strong>Graphics and Effects:</strong> Materials, Particles, Post-processing Effects<br>
         <strong>Platforms:</strong> Windows, Android, WebGL<br>
         <strong>Other Skills:</strong> Basic Unity package development<br>
+    </td></tr>
+    <tr><td style="width: 130px;">
+        <img src="https://img.shields.io/badge/javascript-ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+        </td><td>
+        <strong>Web Frameworks:</strong> Node.js, Express, React, Angular, Svelte<br>
+        <strong>Libraries:</strong> WebGL, jQuery<br>
+        <strong>Build Tools:</strong> Vite<br>
     </td></tr>
     <tr><td style="width: 130px;">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
