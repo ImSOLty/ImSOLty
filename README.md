@@ -126,7 +126,7 @@ Hello there 👋, I'm Vadim! I completed my bachelor's degree in Applied Mathema
     <tr><td style="width: 130px;">
         <img src="https://img.shields.io/badge/Other-545454.svg?style=for-the-badge" alt="Other"/>
         </td><td>
-        <strong>Languages:</strong> Go, PowerShell, Bash, CLIPS, Kotlin, Promela, MASM<br>
+        <strong>Languages:</strong> C#, Go, PowerShell, Bash, CLIPS, Kotlin, Promela, MASM<br>
         <strong>OS:</strong> Windows, Linux (Ubuntu, Debian, Fedora, Mint), macOS<br>
         <strong>Version Control:</strong> Git, GitHub <br>
         <strong>Message brokers:</strong> RabbitMQ, Redis(as mb) <br>
